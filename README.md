@@ -1,4 +1,4 @@
-<img src="https://github.com/xchristergottfridx-hue/profilheaderbanner/blob/main/github-header-banner.png" alt="banner"/>
+<img src="https://github.com/xchristergottfridx-hue/profilheaderbanner/blob/main/github-header-banner.png" alt="xchristergottfridx-hue"/>
 <h1 align="center">Hi 👋, I'm Mohamed Mrabti</h1>
 <h3 align="center">A passionate Full Stack and Blockchain developer from Tunisia, with a love for building clean, modern, and user-friendly applications. Skilled in both frontend and backend development, always exploring new technologies and solving problems creatively.</h3>
 
